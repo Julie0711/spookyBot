@@ -1,0 +1,202 @@
+module.exports = {
+  lang: 'ru',
+  words: [
+    {
+      // Please do not delete this one 🙏
+      name: ['spooky'],
+      uniqueName: '_custom_spooky',
+      emoji: '761602615326146590',
+    },
+    {
+      name: ['Чужой', 'Внеземной'],
+      uniqueName: 'Alien',
+      emoji: '👽',
+    },
+    {
+      name: ['инопланетянин'],
+      uniqueName: 'Alien Monster',
+      emoji: '👾',
+    },
+    {
+      name: ['злой дьявол'],
+      uniqueName: 'Angry Face with Horns',
+      emoji: '👿',
+    },
+    {
+      name: ['тревожный'],
+      uniqueName: 'Anxious Face with Sweat',
+      emoji: '😰',
+    },
+    {
+      name: ['летучая мышь'],
+      uniqueName: 'Bat',
+      emoji: '🦇',
+    },
+    {
+      name: ['кость'],
+      uniqueName: 'Bone',
+      emoji: '🦴',
+    },
+    {
+      name: ['мозг'],
+      uniqueName: 'Brain',
+      emoji: '🧠',
+    },
+    {
+      name: ['метла'],
+      uniqueName: 'Broom',
+      emoji: '🧹',
+    },
+    {
+      name: ['свеча'],
+      uniqueName: 'Candle',
+      emoji: '🕯',
+    },
+    {
+      name: ['конфета'],
+      uniqueName: 'Candy',
+      emoji: '🍬',
+    },
+    {
+      name: ['сеть'],
+      uniqueName: 'Chains',
+      emoji: '⛓',
+    },
+    {
+      name: ['клоун'],
+      uniqueName: 'Clown Face',
+      emoji: '🤡',
+    },
+    {
+      name: ['гроб'],
+      uniqueName: 'Coffin',
+      emoji: '⚰',
+    },
+    {
+      name: ['хрустальный шар'],
+      uniqueName: 'Crystal Ball',
+      emoji: '🔮',
+    },
+    {
+      name: ['кинжал'],
+      uniqueName: 'Dagger',
+      emoji: '🗡',
+    },
+    {
+      name: ['заброшенный дом'],
+      uniqueName: 'Derelict House',
+      emoji: '🏚',
+    },
+    {
+      name: ['закричать'],
+      uniqueName: 'Face Screaming in Fear',
+      emoji: '😱',
+    },
+    {
+      name: ['страх'],
+      uniqueName: 'Fearful Face',
+      emoji: '😨',
+    },
+    {
+      name: ['пожар'],
+      uniqueName: 'Fire',
+      emoji: '🔥',
+    },
+    {
+      name: ['full moon'],
+      uniqueName: 'Full Moon',
+      emoji: '🌕',
+    },
+    {
+      name: ['урна с прахом'],
+      uniqueName: 'Funeral Urn',
+      emoji: '⚱',
+    },
+    {
+      name: ['призрак'],
+      uniqueName: 'Ghost',
+      emoji: '👻',
+    },
+    {
+      name: ['хэллоуин', 'тыква', 'канун всех святых', 'Джек-О-Лантерн'],
+      uniqueName: 'Jack-O-Lantern',
+      emoji: '🎃',
+    },
+    {
+      name: ['леденец'],
+      uniqueName: 'Lollipop',
+      emoji: '🍭',
+    },
+    {
+      name: ['сова'],
+      uniqueName: 'Owl',
+      emoji: '🦉',
+    },
+    {
+      name: ['череп'],
+      uniqueName: 'Skull',
+      emoji: '💀',
+    },
+    {
+      name: ['арбалеты'],
+      uniqueName: 'Skull and Crossbones',
+      emoji: '☠',
+    },
+    {
+      name: ['дьявол'],
+      uniqueName: 'Smiling Face with Horns',
+      emoji: '😈',
+    },
+    {
+      name: ['паук'],
+      uniqueName: 'Spider',
+      emoji: '🕷',
+    },
+    {
+      name: ['web'],
+      uniqueName: 'Spider Web',
+      emoji: '🕸',
+    },
+    {
+      name: ['завядший цветок'],
+      uniqueName: 'Wilted Flower',
+      emoji: '🥀',
+    },
+    {
+      name: ['ведьма'],
+      uniqueName: 'Mage',
+      emoji: '🧙',
+    },
+    {
+      name: ['колдунья'],
+      uniqueName: 'Woman Mage',
+      emoji: '🧙‍♀️',
+    },
+    {
+      name: ['вампир'],
+      uniqueName: 'Vampire',
+      emoji: '🧛',
+    },
+    {
+      name: ['вампирша'],
+      uniqueName: 'Woman Vampire',
+      emoji: '🧛‍♀️',
+    },
+    {
+      name: ['зомби'],
+      uniqueName: 'Zombie',
+      emoji: '🧟',
+    },
+    {
+      name: ['женский зомби'],
+      uniqueName: 'Woman Zombie',
+      emoji: '🧟‍♀️',
+    },
+  ],
+  mentions: [
+    {
+      name: 'spooky',
+      emoji: '👻',
+    },
+  ],
+}
